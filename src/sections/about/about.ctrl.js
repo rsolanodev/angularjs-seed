@@ -1,3 +1,3 @@
-myApp.controller('AboutController', function ($scope) {
+myApp.controller('AboutController', ['$scope', '$http', function ($scope, $http) {
 
-});
+}]);
